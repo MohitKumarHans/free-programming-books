@@ -21,6 +21,7 @@
 * [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
 * [Técnico de Software & Hardware](#t&#x00E9;cnico-de-software--hardware)
 * [Videojuegos](#videojuegos)
+* [VS Code](#VS Code)
 * [Web & Webmaster](#web--webmaster)
 
 
@@ -273,6 +274,9 @@
 * [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar)
 
 
+### VS Code
+
+* [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera
 ### Web & Webmaster
 
 * [Como crear y administrar un curso en MOODLE - TecNMx](https://mooc.tecnm.mx/courses/course-v1:TecNM+CCACM-003+2022-3/about) (TecNMx)
