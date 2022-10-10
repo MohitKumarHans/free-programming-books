@@ -21,7 +21,7 @@
 * [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
 * [Técnico de Software & Hardware](#t&#x00E9;cnico-de-software--hardware)
 * [Videojuegos](#videojuegos)
-* [VS Code](#VS Code)
+* [VS Code](#VS-Code)
 * [Web & Webmaster](#web--webmaster)
 
 
